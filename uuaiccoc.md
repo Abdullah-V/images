@@ -20,7 +20,7 @@
 - You can report incidents by sending an email to a@abdv.me
 - Provide as much detail as possible, including a description of the incident, the individuals involved (if known), and any supporting evidence.
 
-4. Consequences of Breaking the Code of Conduct:
+### Consequences of Breaking the Code of Conduct:
 
 - All reported incidents will be taken seriously and addressed promptly and impartially.
 - The community coordinators will thoroughly investigate the reported incident while respecting the privacy and confidentiality of all parties involved.
